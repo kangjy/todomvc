@@ -23,6 +23,7 @@ Click on the button below to view the code in a Web IDE. Feel free to edit the c
 
 
 ## Team
+翻译人员：kangjy，guowei
 
 TodoMVC would not be possible without a strong team of [contributors](https://github.com/tastejs/todomvc/contributors) helping push the project forward each day. In addition, we have a core project team composed of:
 
