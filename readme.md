@@ -36,15 +36,15 @@ TodoMVC不可能没有一个强有力的[团队](https://github.com/tastejs/todo
 <img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=40">
 Sindre是一个指导核心开发的web开发人员，负责项目质量控制和应用程序设计。Sindre帮助工程尽可能的确保一致性和最佳实践，同时也提供开发todomvc应用的规范。
 
-#### [Pascal Hartig](https://github.com/passy) - Developer
+#### [Pascal Hartig](https://github.com/passy) - 开发人员
 
 <img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/be451fcdbf0e5ff07f23ed16cb5c90a3.png?s=40">
-Pascal is a Software Engineer at Twitter with a deep passion for consistency. He watches pull requests and helps developers getting their contributions integrated with TodoMVC.
+Pascal 是一个对一致性有很高的热情的Twitter软件工程师。他关注pull requrest并帮助开发人员使他们贡献的代码集成到todomvc中
 
-#### [Stephen Sawchuk](https://github.com/stephenplusplus) - Developer
+#### [Stephen Sawchuk](https://github.com/stephenplusplus) - 开发人员
 
 <img align="left" width="40" height="40" src="https://avatars3.githubusercontent.com/u/723048?v=2&s=40">
-Stephen is a Front-end Engineer at Quicken Loans that cares about improving the maintainability and developer experience of open-source projects. His recent contributions include helping us move all apps over to using Bower and implementing the new information bar.
+Stephen 是一个贷款工程的前端工程师，他关心如何提高可维护性和开源项目的开发经验，他最近的贡献包括帮助我们把所有的app都通过Bower使用和使用了新的信息通知栏。
 
 #### [Colin Eberhardt](https://github.com/colineberhardt) - Developer
 
@@ -66,20 +66,20 @@ Arthur is an open-source fanboy from Belgium. He is passionate about developer t
 <img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/4b0209ae3652cc5a7d53545e759fbe39.png?s=40">
 Gianni is a programmer and designer currently working as the Chief Rigger at MetaLab.
 
-## Disclaimer
+## 免责声明
 
 <img align="right" width="230" height="230" src="media/icon-small.png">
 
-TodoMVC has been called many things including the 'Speed-dating' and 'Rosetta Stone' of MV\* frameworks. Whilst we hope that this project is able to offer assistance in deciding what frameworks are worth spending more time looking at, remember that the Todo application offers a limited view of what a framework may be capable of.
+TodoMVC 被称为很多东西，如'速配'和'罗塞塔石碑'的mvc框架，同时我们希望这个项目帮助您决定哪个框架值得花更多的时间去研究。记住Todo应用程序仅对一个框架的能力提供了有限的看法
 
-It is meant to be used as a gateway to reviewing how a basic application using a framework may be structured and we heavily recommend investing time researching a solution in more depth before opting to use it.
+它是在我们打算花大量时间投入研究一个解决方案之前，用来做网关检查的一个使用框架来组织的基本的应用程序。
 
 
-## Getting Involved
+## 开始参与
 
-Whilst we enjoy implementing and improving existing Todo apps, we're always interested in speaking to framework authors (and users) wishing to share Todo app implementations in their framework/solution of choice.
+当我们享受实现和改进现有的TODO应用的时候，我们总希望框架开发者(和用户)分享他们Todo应用程序实现的框架/解决方案。
 
-Check out our [contribution docs](contributing.md) for more info.
+检出 [contribution docs](contributing.md) 以获取更多信息.
 
 
 ## License
