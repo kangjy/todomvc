@@ -1,36 +1,35 @@
 # ![TodoMVC](media/logo.png)
 
-> Helping you select an MV\* framework
+> 帮助您选择一个mvc框架，翻译人员：kangjy，guowei
 
 ### [Website](http://todomvc.com)&nbsp;&nbsp;&nbsp;&nbsp;[Blog](http://blog.tastejs.com)&nbsp;&nbsp;&nbsp;&nbsp;[TasteJS](http://tastejs.com)
 
 [![Build Status](https://travis-ci.org/tastejs/todomvc.svg)](https://travis-ci.org/tastejs/todomvc)
 
 
-Developers these days are spoiled with choice when it comes to selecting an MV\* framework for structuring and organizing JavaScript web apps.
+如今，开发人员选择一个mvc框架来构建和组织一个javascript web 应用程序是有困扰的。
 
-Backbone, Ember, AngularJS... the list of new and stable solutions goes on and on, but just how do you decide on which to use in a sea of so many options?
+Backbone，Ember，AngularJS... 等一系列新的、稳定的前端解决方案如雨后春笋一般，在众多的选择中，哪一个才是最佳解决方案？
 
-To help solve this problem, we created TodoMVC - a project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV\* frameworks of today.
+为了解决这个问题，下面几位大牛创建了TodoMVC项目，这个项目中，他们使用目前流行的不同的mvc框架来实现一个相同的ToDo应用程序。
 
 
-## View & Run in Web IDE
+## 在 Web IDE 查看并编辑
 
-Click on the button below to view the code in a Web IDE. Feel free to edit the code and then run it all from your browser.
+点击下面的按钮来查看Web IDE中的代码。随意编辑代码,然后运行它从您的浏览器。
 
 [![IDE](site-assets/editcloud9.png)](https://c9.io/open/git/?url=git://github.com/tastejs/todomvc.git)
 [![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=tastejs/todomvc)
 
 
-## Team
-翻译人员：kangjy，guowei
+## 核心开发团队
 
-TodoMVC would not be possible without a strong team of [contributors](https://github.com/tastejs/todomvc/contributors) helping push the project forward each day. In addition, we have a core project team composed of:
+TodoMVC不可能没有一个强有力的[团队](https://github.com/tastejs/todomvc/contributors)贡献者每天帮助推动项目向前发展。此外,我们有一个核心项目团队组成的:
 
 #### [Addy Osmani](http://github.com/addyosmani) - Founder/Lead
 
 <img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275.png?s=40">
-  Addy is a Software Engineer at Google who originally created TodoMVC. He oversees the project direction, maintenance and organizes the planning and development efforts of the team.
+  Addy 是一个谷歌的软件工程师，他最初创建了TodoMVC，他负责项目方向,维护和组织团队的规划和开发工作。
 
 #### [Sindre Sorhus](https://github.com/sindresorhus) - Lead Developer
 
