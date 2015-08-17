@@ -26,15 +26,15 @@ Backbone，Ember，AngularJS... 等一系列新的、稳定的前端解决方案
 
 TodoMVC不可能没有一个强有力的[团队](https://github.com/tastejs/todomvc/contributors)贡献者每天帮助推动项目向前发展。此外,我们有一个核心项目团队组成的:
 
-#### [Addy Osmani](http://github.com/addyosmani) - Founder/Lead
+#### [Addy Osmani](http://github.com/addyosmani) - 创始人/领导
 
 <img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275.png?s=40">
   Addy 是一个谷歌的软件工程师，他最初创建了TodoMVC，他负责项目方向,维护和组织团队的规划和开发工作。
 
-#### [Sindre Sorhus](https://github.com/sindresorhus) - Lead Developer
+#### [Sindre Sorhus](https://github.com/sindresorhus) - 开发主管
 
 <img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=40">
-Sindre is a Web Developer who leads core development, quality control and application design for the project. His engineering contributions have helped us ensure consistency and best practices are enforced wherever possible. Sindre also leads up development of the TodoMVC application spec.
+Sindre是一个指导核心开发的web开发人员，负责项目质量控制和应用程序设计。Sindre帮助工程尽可能的确保一致性和最佳实践，同时也提供开发todomvc应用的规范。
 
 #### [Pascal Hartig](https://github.com/passy) - Developer
 
